@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+*.mp3
+*.m4a
+*.webm
+*.part
+approvals*.json
+secrets*
